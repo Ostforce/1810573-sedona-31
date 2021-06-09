@@ -1,0 +1,8 @@
+:root {
+    --gray-basic: #888888;
+}
+
+
+.page-body {
+    background-color: var(--gray-basic);
+}
